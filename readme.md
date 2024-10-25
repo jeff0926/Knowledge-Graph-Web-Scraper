@@ -14,7 +14,7 @@ A Python-based knowledge graph tool that integrates Azure OpenAI (GPT-4O) for re
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Knowledge-Graph-Web-Scraper.git
+git clone https://github.com/jeff0926/AI-companion.git
 cd Knowledge-Graph-Web-Scraper
 ```
 
