@@ -1,0 +1,197 @@
+SETTING / GETTING ENDPOINTS AND KEYS
+
+under azure portal "all recourses"
+
+======================
+  ||
+  ||
+\\  //
+ \\//
+  \/
+
+COSMOSDB >>>>
+
+knowledgegraph-webscraper-cosmosdb
+
+GREMLIN URI
+read-write keys:
+wss://knowledgegraph-webscraper-cosmosdb.gremlin.cosmos.azure.com:443/
+
+****
+COSMOS_DB_GREMLIN_ENDPOINT = wss://knowledgegraph-webscraper-cosmosdb.gremlin.cosmos.azure.com:443/
+****
+
+PRIMARY KEY: fsN0JHBIeYxCqvvD29VP256jS6NpJsJn5mnewiwkn4k3M6hQeCzbyuXeO9dnMWizJMGXd5fiCsSIACDbyi4SKA==
+
+****
+COSMOS_DB_KEY =  fsN0JHBIeYxCqvvD29VP256jS6NpJsJn5mnewiwkn4k3M6hQeCzbyuXeO9dnMWizJMGXd5fiCsSIACDbyi4SKA==
+****
+
+SECONDARY KEY: MFZtBlmbV02EvYGinKKHchmt4N6jeBFlspqSERw4VjZAczdxRoFEXSskPWdnW5UrA9VtByqc1R0nACDbJ1Sgdg==
+
+========
+Note on Username for Gremlin Client:
+
+When initializing your Gremlin client in your code, ensure the username parameter matches the path to your database and graph (collection). For example:
+
+python
+Copy code
+username = "/dbs/WebScraperDB/colls/Webpages"
+Replace WebScraperDB and Webpages with your actual database and graph names if they are different.
+
+=====================
+  ||
+  ||
+\\  //
+ \\//
+  \/
+
+TEXT ANALYTICS : COGNITIVE SERVICES >>
+
+knowledgegraph-webscraper-cognitive-service | Keys and Endpoint
+
+KEY 1 : 010a7c2875bf4c00bd42dbb6cfaeb348
+	TEXT_ANALYTICS_KEY = 010a7c2875bf4c00bd42dbb6cfaeb348
+
+KEY 2 : 8185010c00144768a7394eb310607d55
+
+
+
+Location/Region
+eastus
+
+Endpoint : https://knowledgegraph-webscraper-cognitive-service.cognitiveservices.azure.com/
+	TEXT_ANALYTICS_ENDPOINT = https://knowledgegraph-webscraper-cognitive-service.cognitiveservices.azure.com/
+
+
+TEXT_ANALYTICS_ENDPOINT =  https://knowledgegraph-webscraper-cognitive-service.cognitiveservices.azure.com/
+
+
+
+
+
+=====================
+  ||
+  ||
+\\  //
+ \\//
+  \/
+
+
+
+azure-functions requests beautifulsoup4 gremlinpython azure-ai-textanalytics aiohttp
+
+
+=====================
+  ||
+  ||
+\\  //
+ \\//
+  \/
+GREMLIN INSERT QUERY with our json output structure:
+g.addV('WebPage')
+  .property('id', 'https_example_com')
+  .property('url', 'https://example.com')
+  .property('title', 'Example Page')
+  .property('description', 'This is an example page')
+  .property('content', 'This is the main content of the page.')
+  .property('word_count', 10)
+  .property('readability_score', 70.5)
+  .property('keywords', '["example", "page", "content"]')
+  .property('social_media_metadata', '{"og":{"title":"Example Page"},"twitter":{"card":"summary"}}')
+
+QUERY QUERY:
+g.V().hasLabel('WebPage')
+   /\
+  //\\
+ //  \\
+   ||
+   ||
+   ||
+=========
+
+Basics
+Subscription
+JC-Core-1
+Resource group
+Knowledge-Graph-Web-Scraper_group
+Name
+my-scrape-bing-search
+Resource group location
+East US
+Pricing tier
+F1 (3 Calls per second, 1k Calls per month)
+
+Microsoft.BingSearch-20241022133303 
+
+
+
+Your deployment is complete
+Offering icon
+Deployment name
+:
+Microsoft.BingSearch-20241022133303
+Subscription
+:
+JC-Core-1
+Resource group
+:
+Knowledge-Graph-Web-Scraper_group
+Start time
+:
+10/22/2024, 1:35:07 PM
+Correlation ID
+:
+1109899e-ba42-4050-85b2-8bfe51b56e7e
+Deployment details
+
+
+my-scrape-bing-search | Keys and Endpoint
+
+Key 1:
+4e2792a37779488794[KEY]123994c6338469
+Key 2:
+59fac161105[KEY]a4bb5a3b0024aeac4d94e
+Endpoint:
+https://api.bing.microsoft.com/
+Location: global
+
+
+
+========================
+Microsoft.CognitiveServicesOpenAI-20241023090416 
+
+Basics
+Subscription
+JC-Core-1
+Resource group
+Knowledge-Graph-Web-Scraper_group
+Region
+East US
+Name
+knowledge-graph-openai
+Pricing tier
+Standard S0
+Network
+Type
+All networks, including the internet, can access this resource.
+Tags
+Project
+knowledge-graph (Azure AI services)
+Environment
+development (Azure AI services)
+Service
+openai (Azure AI services)
+Purpose
+research-generation (Azure AI services)
+
+
+
+KEY 1
+bcc8eb3a8941456e8a2e097bae0b8497
+KEY 2
+c05968c7bca24c59a066059e3b40f267
+Location/Region
+eastus
+Endpoint
+https://knowledge-graph-openai.openai.azure.com/

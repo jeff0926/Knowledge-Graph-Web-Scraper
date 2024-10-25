@@ -1,0 +1,456 @@
+Formatted JSON Response:
+{
+  "id": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/",
+  "url": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/",
+  "metadata": {
+    "title": "SAP Supercharges Joule  SAP TechEd  SAP News Center",
+    "description": "New collaborative capabilities for Joule and other innovations unveiled at SAP TechEd in 2024 showcase SAPs business AI game changers",
+    "keywords": "",
+    "canonical_url": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/",
+    "author": "SAP News",
+    "published_time": "2024-10-08T07:02:00+00:00",
+    "modified_time": "2024-10-08T12:44:15+00:00",
+    "estimated_reading_time": ""
+  },
+  "content": {
+    "header": "News Guide AI Innovations to Drive Real Business Outcomes",
+    "navigation": "",
+    "body": "Skip to content Press Room SAP Supercharges Copilot Joule with Collaborative Capabilities to Ignite Enterprise AI Revolution Press Release by SAP News October 8 2024 Innovations at TechEd 2024 Showcase SAPs Vast Collection of Business AI GameChangers from Collaborative Agents to Knowledge Graph Capabilities and Generative AI Developer Features in SAP Build WALLDORF  SAP SE NYSE SAP today unveiled groundbreaking AI innovations across a technology foundation that drives 87 of global commerce putting its generative AI copilot Joule at the center of a new way of doing business Joule The AI copilot that truly understands your business Learn more At its annual SAP TechEd conference SAP announced powerful new capabilities that complement and extend Joule including collaborative AI agents imbued with custom skills to complete complex crossdisciplinary tasks Other innovations include the SAP Knowledge Graph a nextgeneration solution poised to help developers unlock the full value of SAP data by connecting it with rich business context and new tools to ensure developers can continue driving Business AI innovation SAPs innovation drives real business outcomes and todays advancements help customers harness the power of AI data and new development solutions to catalyze growth said Muhammad Alam member of the Executive Board of SAP SE SAP Product Engineering Drawing on SAPs unmatched business and technology expertise the AI innovations were announcing at TechEd forge a new humanAI partnership to transform the landscape of modern business Supercharging Joule On the eve of its first birthday Joule marks a watershed in how business gets done SAP introduces collaborative AI agents to a copilot that truly speaks the language of business expands Joules capabilities to support 80 of SAPs mostused business tasks and embeds Joule more deeply within the companys portfolio Collaborative multiagent systems deploy specialized AI agents to tackle specific tasks and enable them to collaborate on intricate business workflows adapting their strategies to meet shared objectives SAP is infusing Joule with multiple collaborative AI agents that will combine their unique expertise across business functions to collaboratively accomplish complex workflows These AI agents enhance productivity by breaking down silos and freeing workers to concentrate on areas where human ingenuity thrives Two use cases debuted at TechEd showcase the agents transformative power A dispute management use case employs autonomous AI agents to analyze and resolve dispute resolution scenarios including incorrect and missing invoices unapplied credits and denied or duplicate payments A financial accounting use case employs autonomous AI agents to streamline key financial processes by automating bill payments invoice processing and ledger updates while quickly addressing inconsistencies or errors Harnessing the Power of Data SAPs AI innovations also draw on the companys unmatched business data expertise The new SAP Knowledge Graph solution accessible through SAP Datasphere and Joule in Q1 2025 will give users a deeper layer of business understanding by seamlessly mapping relationships and context across SAPs vast data landscape empowering organizations to make better decisions with their data By offering readytouse relationships between business entities like purchase orders invoices and customers the solution can significantly reduce the complexity of manual data modeling SAP Knowledge Graph grounds AI in SAPspecific business semantics which reduces the risk of inaccurate or irrelevant results and makes it easier for organizations to build intelligent applications and leverage generative AI more effectively Empowering Developers SAP also launched a swathe of innovations for developers to continue driving Business AI innovation New generative AI developer capabilities such as code explanation and documentation search in SAP Build the companys platform for extending its solutions will reduce development time for Java and JavaScript developers SAP Build is also adding an Extensibility Wizard feature that will let developers access SAP Build directly from SAP S4HANA Cloud Public Edition simplifying the extension process Meanwhile ABAP developers and fusion teams will get seamless access to ABAP Cloud development tools from SAP Build Finally SAP announced that it has already fulfilled its pledge to upskill 2 million people worldwide by 2025 Through its learning opportunities the company has lowered the worlds digital skills gap through rolebased certifications free training materials handson opportunities for developers and more SAP continues to expand its growing portfolio of AIrelated learning opportunities including courses on generative AI AI ethics and SAPs advanced AI tools and platforms Visit the SAP News Center Follow SAP at SAPNews Get all the latest news and coverage from SAP TechEd in 2024 Read more About SAP As a global leader in enterprise applications and busine",
+    "footer": "Why SAP Intelligent Enterprise Small and Midsize Enterprises SAP Trust Center SAP Insights SAP Community Developer Support Portal Company Information Worldwide Directory Investor Relations Careers News and Press Events Customer Stories Newsletter Privacy Terms of Use Legal Disclosure Copyright Trademark Sitemap Contact Us United States 18008721727 Or see our complete list of local country numbers Contact us Find us on"
+  },
+  "images": [
+    {
+      "url": "https://news.sap.com/wp-content/blogs.dir/1/files/2024/10/08/291903_GettyImages-544372003_medium_uncropped_F-1920x600.jpg",
+      "alt": "SAP Supercharges Copilot Joule with Collaborative Capabilities to Ignite Enterprise AI Revolution",
+      "location": "body"
+    },
+    {
+      "url": "https://news.sap.com/wp-content/blogs.dir/1/files/2024/09/05/279205_GettyImages-602907143_medium_uncropped_F-540x310.jpg",
+      "alt": "News Guide: AI Innovations to Drive Real Business Outcomes",
+      "location": "body"
+    },
+    {
+      "url": "https://news.sap.com/wp-content/blogs.dir/1/files/2024/10/08/298119_GettyImages-1138451175_medium_uncropped_F-540x310.jpg",
+      "alt": "SAP Build’s Next Leap: Generative AI and ABAP",
+      "location": "body"
+    },
+    {
+      "url": "https://news.sap.com/wp-content/blogs.dir/1/files/2024/10/08/302801_GettyImages-1386479283_medium_F-540x310.jpg",        
+      "alt": "SAP Business AI: Release Highlights Q3 2024",
+      "location": "body"
+    },
+    {
+      "url": "https://www.sap.com/dam/application/imagelibrary/pictograms/281000/281519-pictogram-neg-orange.svg",
+      "alt": "",
+      "location": "body"
+    },
+    {
+      "url": "https://www.sap.com/dam/application/imagelibrary/pictograms/281000/281022-pictogram-neg-purple.svg",
+      "alt": "",
+      "location": "body"
+    },
+    {
+      "url": "https://news.sap.com/wp-content/themes/sapn-theme-2/assets/img/social/icon-x.svg",
+      "alt": "X",
+      "location": "body"
+    },
+    {
+      "url": "https://www.sap.com/dam/application/shared/images/social-icons/icon-2018-linked-in.svg",
+      "alt": "LinkedIn",
+      "location": "body"
+    },
+    {
+      "url": "https://www.sap.com/dam/application/shared/images/social-icons/icon-2018-envelope.svg",
+      "alt": "Email share",
+      "location": "body"
+    },
+    {
+      "url": "https://news.sap.com/wp-content/themes/sapn-theme-2/assets/img/sap-logo-svg.svg",
+      "alt": "SAP",
+      "location": "body"
+    }
+  ],
+  "analysis": {
+    "word_count": 1115,
+    "readability_score": 0,
+    "keywords": [
+      "sap",
+      "ai",
+      "business",
+      "joule",
+      "agents",
+      "2024",
+      "saps",
+      "developers",
+      "press",
+      "news"
+    ],
+    "entities": {
+      "ORG": [
+        "Collaborative Capabilities",
+        "Ignite Enterprise AI Revolution Press Release",
+        "SAP News",
+        "Showcase SAPs Vast Collection of Business AI GameChangers",
+        "Collaborative Agents to Knowledge Graph Capabilities",
+        "Generative AI Developer Features",
+        "AI",
+        "AI",
+        "AI",
+        "SAP",
+        "AI",
+        "the SAP Knowledge Graph",
+        "SAP",
+        "Business AI",
+        "AI",
+        "the Executive Board of SAP",
+        "AI",
+        "humanAI",
+        "SAP",
+        "AI",
+        "AI",
+        "SAP",
+        "AI",
+        "AI",
+        "AI",
+        "AI",
+        "Harnessing the Power of Data",
+        "SAP Knowledge Graph",
+        "SAP Datasphere",
+        "SAP Knowledge Graph",
+        "AI",
+        "SAPspecific",
+        "AI",
+        "Business AI",
+        "AI",
+        "SAP Build",
+        "SAP Build",
+        "SAP S4HANA Cloud Public Edition",
+        "SAP Build Finally",
+        "SAP",
+        "AIrelated",
+        "AI AI",
+        "AI",
+        "the SAP News Center Follow",
+        "SAP TechEd",
+        "AI SAP NYSE SAP",
+        "SAP",
+        "PSTMarcus Winkler",
+        "CESTSAP Press Room",
+        "the Securities and Exchange Commission",
+        "SAP",
+        "SAP SE",
+        "Unsubscribe",
+        "News Guide News Guide AI Innovations",
+        "Drive Real Business Outcomes",
+        "SAP News"
+      ],
+      "DATE": [
+        "October 8 2024",
+        "today",
+        "annual",
+        "the eve",
+        "Q1 2025",
+        "2025",
+        "2024",
+        "50 years",
+        "49 180",
+        "Only 1 800 8721SAP 18008721727",
+        "1 626 2650370",
+        "49 15157118691",
+        "October 8 2024",
+        "2024",
+        "October 8 2024",
+        "18008721727"
+      ],
+      "CARDINAL": [
+        "87",
+        "80",
+        "Two",
+        "2 million"
+      ],
+      "PERSON": [
+        "Joule",
+        "Joule The",
+        "Joule",
+        "Muhammad Alam",
+        "Joule",
+        "Joule",
+        "Joules",
+        "Joule",
+        "Joule",
+        "Joule",
+        "Java",
+        "SAP Build",
+        "JG Chirapurath",
+        "Philipp Herzig"
+      ],
+      "PRODUCT": [
+        "Learn",
+        "JavaScript"
+      ],
+      "ORDINAL": [
+        "first"
+      ],
+      "WORK_OF_ART": [
+        "Read more About SAP As"
+      ],
+      "FAC": [
+        "Customer Center"
+      ],
+      "GPE": [
+        "States",
+        "Germany"
+      ],
+      "LOC": [
+        "Tags Generative"
+      ]
+    }
+  },
+  "links": [
+    {
+      "text": "Skip to content",
+      "url": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/#content"
+    },
+    {
+      "text": "Press Room",
+      "url": "https://news.sap.com/press-room/"
+    },
+    {
+      "text": "",
+      "url": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.sap.com%2F2024%2F10%2Fsap-teched-copilot-joule-collaborative-capabilities-enterprise-ai%2F&t=SAP%20Supercharges%20Copilot%20Joule%20with%20Collaborative%20Capabilities%20to%20Ignite%20Enterprise%20AI%20Revolution"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/share?text=SAP%20Supercharges%20Copilot%20Joule%20with%20Collaborative%20Capabilities%20to%20Ignite%20Enterprise%20AI%20Revolution%20%7C%20via%20%40SAPNews&url=https%3A%2F%2Fnews.sap.com%2F2024%2F10%2Fsap-teched-copilot-joule-collaborative-capabilities-enterprise-ai%2F"
+    },
+    {
+      "text": "",
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnews.sap.com%2F2024%2F10%2Fsap-teched-copilot-joule-collaborative-capabilities-enterprise-ai%2F&title=SAP%20Supercharges%20Copilot%20Joule%20with%20Collaborative%20Capabilities%20to%20Ignite%20Enterprise%20AI%20Revolution"
+    },
+    {
+      "text": "Press Release",
+      "url": "https://news.sap.com/press-room/"
+    },
+    {
+      "text": "SAP News",
+      "url": "https://news.sap.com/author/colleenraftery/"
+    },
+    {
+      "text": "SAP SE",
+      "url": "http://www.sap.com"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.sap.com/products/artificial-intelligence/ai-assistant.html"
+    },
+    {
+      "text": "learning opportunities",
+      "url": "https://learning.sap.com"
+    },
+    {
+      "text": "SAP News Center",
+      "url": "https://news.sap.com/"
+    },
+    {
+      "text": "@SAPNews",
+      "url": "http://twitter.com/sapnews/"
+    },
+    {
+      "text": "Read more",
+      "url": "https://news.sap.com/topics/sap-teched/"
+    },
+    {
+      "text": "www.sap.com",
+      "url": "http://www.sap.com/"
+    },
+    {
+      "text": "www.sap.com/photos",
+      "url": "http://www.sap.com/photos"
+    },
+    {
+      "text": "joellen.perry@sap.com",
+      "url": "mailto:joellen.perry@sap.com"
+    },
+    {
+      "text": "marcus.winkler@sap.com",
+      "url": "mailto:marcus.winkler@sap.com"
+    },
+    {
+      "text": "SAP Press Room",
+      "url": "https://news.sap.com/press-room/"
+    },
+    {
+      "text": "press@sap.com",
+      "url": "mailto:press@sap.com"
+    }
+  ],
+  "social_media_metadata": {
+    "og": {
+      "locale": "en_US",
+      "type": "article",
+      "title": "SAP Supercharges Copilot Joule with Collaborative Capabilities to Ignite Enterprise AI Revolution",
+      "description": "New collaborative capabilities for Joule and other innovations unveiled at SAP TechEd in 2024 showcase SAP’s business AI game changers.",
+      "url": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/",
+      "site_name": "SAP News Center",
+      "image": "https://news.sap.com/wp-content/blogs.dir/1/files/2024/10/08/291903_GettyImages-544372003_medium_uncropped_F.jpg",     
+      "image:width": "2121",
+      "image:height": "1414",
+      "image:type": "image/jpeg"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "creator": "@SAPNews",
+      "site": "@SAPNews",
+      "label1": "Written by",
+      "data1": "SAP News",
+      "label2": "Est. reading time",
+      "data2": "5 minutes"
+    }
+  },
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/#article",
+          "isPartOf": {
+            "@id": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/"
+          },
+          "author": {
+            "name": "SAP News",
+            "@id": "https://news.sap.com/#/schema/person/53b9854bd790d6f18f3fc4bbb2ad7570"
+          },
+          "headline": "SAP Supercharges Copilot Joule with Collaborative Capabilities to Ignite Enterprise AI Revolution",
+          "datePublished": "2024-10-08T07:02:00+00:00",
+          "dateModified": "2024-10-08T12:44:15+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/"
+          },
+          "wordCount": 1017,
+          "publisher": {
+            "@id": "https://news.sap.com/#organization"
+          },
+          "image": {
+            "@id": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/#primaryimage"      
+          },
+          "thumbnailUrl": "https://news.sap.com/wp-content/blogs.dir/1/files/2024/10/08/291903_GettyImages-544372003_medium_uncropped_F.jpg",
+          "keywords": [
+            "Generative AI",
+            "Joule",
+            "SAP Build",
+            "SAP Knowledge Graph"
+          ],
+          "articleSection": [
+            "Artificial Intelligence",
+            "Business Technology Platform",
+            "Cloud",
+            "Events",
+            "SAP TechEd",
+            "Solutions",
+            "Technology"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/",
+          "url": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/",
+          "name": "SAP Supercharges Joule | SAP TechEd | SAP News Center",
+          "isPartOf": {
+            "@id": "https://news.sap.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/#primaryimage"      
+          },
+          "image": {
+            "@id": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/#primaryimage"      
+          },
+          "thumbnailUrl": "https://news.sap.com/wp-content/blogs.dir/1/files/2024/10/08/291903_GettyImages-544372003_medium_uncropped_F.jpg",
+          "datePublished": "2024-10-08T07:02:00+00:00",
+          "dateModified": "2024-10-08T12:44:15+00:00",
+          "description": "New collaborative capabilities for Joule and other innovations unveiled at SAP TechEd in 2024 showcase SAP’s business AI game changers.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "https://news.sap.com/2024/10/sap-teched-copilot-joule-collaborative-capabilities-enterprise-ai/#primaryimage",       
+          "url": "https://news.sap.com/wp-content/blogs.dir/1/files/2024/10/08/291903_GettyImages-544372003_medium_uncropped_F.jpg",   
+          "contentUrl": "https://news.sap.com/wp-content/blogs.dir/1/files/2024/10/08/291903_GettyImages-544372003_medium_uncropped_F.jpg",
+          "width": 2121,
+          "height": 1414
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://news.sap.com/#website",
+          "url": "https://news.sap.com/",
+          "name": "SAP News Center",
+          "description": "Company &amp; Customer Stories | Press Room",
+          "publisher": {
+            "@id": "https://news.sap.com/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://news.sap.com/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://news.sap.com/#organization",
+          "name": "SAP",
+          "url": "https://news.sap.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://news.sap.com/#/schema/logo/image/",
+            "url": "",
+            "contentUrl": "",
+            "caption": "SAP"
+          },
+          "image": {
+            "@id": "https://news.sap.com/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://x.com/SAPNews"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://news.sap.com/#/schema/person/53b9854bd790d6f18f3fc4bbb2ad7570",
+          "name": "SAP News",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://news.sap.com/#/schema/person/image/",
+            "url": "https://news.sap.com/wp-content/plugins/wp-user-avatars/wp-user-avatars/assets/images/mystery.jpg",
+            "contentUrl": "https://news.sap.com/wp-content/plugins/wp-user-avatars/wp-user-avatars/assets/images/mystery.jpg",
+            "caption": "SAP News"
+          },
+          "url": "https://news.sap.com/author/colleenraftery/"
+        }
+      ]
+    }
+  ],
+  "processed_json_ld": [],
+  "verification": "Error"
+}

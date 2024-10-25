@@ -1,0 +1,165 @@
+```gitignore
+# Python files
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+.Python
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Compressed files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.bz2
+*.xz
+*.lzma
+*.z
+*.zi
+
+# Package files
+*.pkl
+*.pth
+
+# Documentation
+*.pdf
+*.docx
+*.rst
+*.html
+*.md
+!README.md
+
+# Data files
+*.csv
+*.json
+*.xml
+*.npy
+*.npz
+*.fits
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+
+# Environment and configuration
+.env
+.venv
+env/
+venv/
+ENV/
+*.cfg
+*.ini
+.python-version
+*.toml
+!pyproject.toml
+*.yml
+!.github/workflows/*.yml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# Certificates and keys
+*.pem
+*.key
+*.crt
+
+# Cython generated files
+*.c
+*.cpp
+*.pyx
+*.pxd
+*.pxi
+
+# Misc
+*.bak
+*.tmp
+*.temp
+.DS_Store
+*.hash
+*.marisa
+*.dic
+*.tab
+*.tmpl
+*.typed
+*.f
+*.f90
+*.mod
+*.f2py_f2cmap
+
+# License files (but keep them in repo)
+!*.APACHE
+!*.BSD
+!*.GPL
+!*.LGPL
+!*.MPL
+
+# Documentation files
+*.doxyfile
+*.doctest
+*.jinja
+*.mermaid
+*.mmd
+
+# Function configuration
+*.funcignore
+
+# Keep specific files even if they match above patterns
+!requirements.txt
+!setup.py
+!LICENSE
+```
+
+Key features:
+1. Ignores common Python compilation files
+2. Excludes environment and configuration files
+3. Skips logs and temporary files
+4. Preserves important project files
+
+Would you like me to:
+1. Add more specific patterns?
+2. Explain any particular exclusions?
+3. Modify for specific project needs?

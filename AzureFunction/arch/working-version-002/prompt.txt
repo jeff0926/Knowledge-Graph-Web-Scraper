@@ -1,0 +1,62 @@
+# Web Scraper and Content Analysis Project
+
+## Project Overview
+We are developing a comprehensive web scraping and content analysis system. The project aims to create a robust service that can scrape websites, store the data, and perform various analyses on the collected information. The system will eventually be deployed on Azure, but we are currently in the local development phase.
+
+## Current Project State
+1. We have developed a basic web scraper using Python, BeautifulSoup, and other libraries.
+2. The scraper can extract content from web pages, including text, metadata, and basic structure.
+3. We've implemented named entity recognition using spaCy.
+4. We've added readability score calculation (currently not functioning correctly).
+5. The scraper extracts social media metadata and links.
+6. We're storing the scraped data in a structured JSON format.
+
+## Core Functionality (Current Focus)
+1. Web Scraping: Enhance the existing scraper to handle various webpage structures, respect robots.txt, and potentially handle JavaScript-rendered content.
+2. Data Processing: Improve cleaning, tagging, and labeling processes for the scraped content.
+3. Content Analysis: Refine keyword extraction, readability scoring, and entity recognition.
+4. Data Storage: Prepare for transition to Azure services (e.g., Cosmos DB).
+
+## Future Goals
+1. Implement a knowledge graph based on the scraped data.
+2. Integrate with Azure services (e.g., Azure Functions, Cosmos DB, Azure AI services).
+3. Develop vector embeddings and storage in a vector database.
+4. Create a content grounding service for AI, including:
+   - Data collection and curation
+   - Knowledge graph construction
+   - Vector embedding
+   - Similarity search
+   - Response generation
+5. Implement evaluation and refinement processes.
+6. Develop client applications, including a Chrome extension.
+
+## Current Challenges
+1. Readability score calculation is not functioning correctly (always returning 0).
+2. Content extraction limits may need further adjustment.
+3. Structured data (JSON-LD) extraction needs to be implemented.
+4. Word count calculation needs improvement for accuracy.
+
+## Next Steps
+1. Debug and fix the readability score calculation.
+2. Implement JSON-LD structured data extraction.
+3. Refine word count calculation to ensure accuracy.
+4. Begin planning for Azure service integration, starting with data storage.
+5. Research and plan knowledge graph implementation.
+
+## Development Approach
+- Focus on modular design to facilitate future migration to Azure services.
+- Prioritize core functionality before adding advanced features.
+- Implement comprehensive error handling and input validation.
+- Write unit tests for each component.
+- Maintain clear documentation of design decisions and processes.
+
+## Instructions for the AI Assistant
+1. Review the provided code and project state.
+2. Provide suggestions and code improvements that align with the current project focus and future goals.
+3. When asked to implement new features, provide code snippets or full implementations as needed.
+4. Explain your reasoning behind suggested changes or new implementations.
+5. If any part of the project scope or requirements is unclear, ask for clarification before proceeding.
+6. Consider best practices for Python development, web scraping ethics, and data handling.
+7. When relevant, suggest how current implementations might be adapted for future Azure deployment.
+
+Your task is to assist in the development of this project, providing expertise in Python programming, web scraping techniques, data processing, and Azure services integration. Please approach each task with consideration for both immediate functionality and long-term project goals.
